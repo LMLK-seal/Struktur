@@ -9,7 +9,7 @@ A modern web application that provides an intuitive visual interface for creatin
 
 ## Overview
 
-Struktur empowers developers and project managers to visualize and construct directory structures through an interactive tree interface. Whether you're planning a new project architecture or documenting existing structures, Struktur provides the tools to create, modify, and export your directory layouts efficiently.
+Struktur empowers developers and project managers to visualize and construct directory structures through an interactive tree interface. Whether you're planning a new project architecture or documenting existing structures, Struktur provides the tools to create, modify, and export your directory layouts efficiently. [Live DEMO](https://genuine-conkies-7e045a.netlify.app/).
 
 ## Key Features
 
