@@ -1,0 +1,5 @@
+{
+  "name": "Struktur - Visual Directory Generator",
+  "description": "A web application that allows a user to visually build a directory tree in the browser, add folders and files, and download the entire structure as a .zip file.",
+  "requestFramePermissions": []
+}
