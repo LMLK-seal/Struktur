@@ -5,6 +5,8 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
+![Struktur](https://raw.githubusercontent.com/LMLK-seal/Struktur/refs/heads/main/logo.jpg)
+
 A modern web application that provides an intuitive visual interface for creating, managing, and exporting directory structures directly in your browser. Build complex project hierarchies with ease and export them as downloadable ZIP archives.
 
 ## Overview
