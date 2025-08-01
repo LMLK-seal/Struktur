@@ -56,7 +56,7 @@ Struktur empowers developers and project managers to visualize and construct dir
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/LMLK-Seal/struktur.git
+   git clone https://github.com/LMLK-seal/struktur.git
    cd struktur
    ```
 
